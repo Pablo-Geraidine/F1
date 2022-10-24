@@ -5,7 +5,7 @@ CS50 Final Project
   
   Hello CS50! My final project is called F1 Telemetry, and it is meant as a tool for comparing drivers' performance to one another by displaying a visual representation of various data-points collected throughout each session.
   
-  To do this, I am pulling information from the fastf1 python package. Fastf1 has a collection of historical data on Formula 1 events. From fastf1's documentation: "fastF1 gives you access to F1 lap timing, car telemetry and position, tyre data, weather data, the event schedule and session results". Fastf1 is also designed around Matplotlib, which opens up various opportunities for creating the data visualization used on this final project. 
+  To do this, I am pulling information from the fastf1 python package. Fastf1 has a vast collection of historical data on Formula 1 events. From fastf1's documentation: "fastF1 gives you access to F1 lap timing, car telemetry and position, tyre data, weather data, the event schedule and session results". Fastf1 is also designed around Matplotlib, which opens up various opportunities for creating the data visualization used on this final project. 
   
   The project was written using Jupyter Notebok, and is rendered as a standalone web application using the Voila extension. Ipywidgets were used for visualization and interactive browser controls. 
   
