@@ -1,7 +1,5 @@
 # F1 Telemetry
 CS50 Final Project
-
-# F1 Telemetry
 ## Video Demo:  <URL HERE>
 #### Description:
   
