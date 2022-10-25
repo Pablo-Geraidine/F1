@@ -1,6 +1,6 @@
 CS50 Final Project
 # F1 Telemetry
-## Video Demo:  <URL HERE>
+## Video Demo:  https://youtu.be/eIqGAvmENlA
 #### Description:
   
   Hello CS50! My final project is called F1 Telemetry, and it is meant as a tool for comparing drivers' performance to one another by displaying a visual representation of various data-points collected throughout each session.
